@@ -27,6 +27,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Configuration\" />
+    <Folder Include="Git\" />
     <Folder Include="Observability\" />
     <Folder Include="Security\" />
   </ItemGroup>
@@ -34,6 +35,7 @@
     <Compile Include="Apparatus.Tests.ps1" />
     <Compile Include="Apparatus.psd1" />
     <Compile Include="Apparatus.psm1" />
+    <Compile Include="Git\New-PullRequest.ps1" />
     <Compile Include="Observability\Add-IntegrationServicePrincipal.ps1" />
     <Compile Include="Security\Get-MyUserObjectId.ps1" />
     <Compile Include="Security\Initialize-SubscriptionRbac.ps1" />

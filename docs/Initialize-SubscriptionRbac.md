@@ -1,6 +1,6 @@
 ---
-external help file: DevOps.Flex-help.xml
-Module Name: DevOps.Flex
+external help file: Apparatus-help.xml
+Module Name: Apparatus
 online version:
 schema: 2.0.0
 ---
@@ -55,7 +55,7 @@ Aliases:
 Required: True
 Position: 2
 Default value: None
-Accept pipeline input: True (ByValue)
+Accept pipeline input: False
 Accept wildcard characters: False
 ```
 

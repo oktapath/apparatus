@@ -11,3 +11,7 @@ Gets my user Object ID from the current AAD tenant.
 #### [Initialize-SubscriptionRbac](./docs/Initialize-SubscriptionRbac.md)
 
 Cleans up RBAC for a given subscription.
+
+#### [New-PullRequest](./docs/New-PullRequest.md)
+
+Creates a new pull request for the current branch against master.
