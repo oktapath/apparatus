@@ -35,6 +35,8 @@
     <Compile Include="Apparatus.Tests.ps1" />
     <Compile Include="Apparatus.psd1" />
     <Compile Include="Apparatus.psm1" />
+    <Compile Include="Configuration\Set-CosmosConfiguration.ps1" />
+    <Compile Include="Configuration\Set-StorageConfiguration.ps1" />
     <Compile Include="Git\New-PullRequest.ps1" />
     <Compile Include="Observability\Add-IntegrationServicePrincipal.ps1" />
     <Compile Include="Security\Get-MyUserObjectId.ps1" />
